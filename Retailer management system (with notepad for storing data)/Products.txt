@@ -1,0 +1,4 @@
+5 PR5 Bakery Unknown Pran Good-bread 4 High 2
+6 PR6 Rice D-rice Unknown HRY 40 High 20
+7 PR7 Condiments Radhuni RDH Red-Chili 2 Medium 4
+8 PR8 Condiments Unknown Sei-food jira 20 High 90

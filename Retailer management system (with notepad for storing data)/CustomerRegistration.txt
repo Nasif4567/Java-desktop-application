@@ -1,0 +1,3 @@
+5 CUS5 Nayeem Ahmed Male 02/09/2021 nayeem@gmail.com Dhaka Uttara R-7 910303903 Nayeem123 123456789
+6 CUS6 jamaica jamaica Male 05/09/2021 jamaica@gmail.com SA Dhaka SA 82994094 124 jnfejnfe
+7 CUS7 Vidu Oliver Male 16/11/2022 vidu@gmail.com Dhaka Dhaka Uttara 7879979798 Nasif 1234567

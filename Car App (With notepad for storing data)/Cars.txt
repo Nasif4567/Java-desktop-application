@@ -1,0 +1,9 @@
+1    C1 Proton 2013 HGGY67 Economy Four 50 Yes
+2    C2 Bezza 2013 HGGY67 Economy Four 78 No
+3 C3 kenoi 2013 HGGY67 Economy Four 78 No
+4    C4 Prado 2019 OOJKL6 Premium Six 50 Yes
+5    C5 Cruiser 2018 HJKLOG Economy Six 90 Yes
+6    C6 Camry 2014 JKILO4 Economy Four 50 Yes
+7    C7 Range 2020 HJKIUY Premium Six 100 Yes
+8    C8 Sabaru 2017 TYIJHF Premium Four 80 Yes
+9    C9 BMW 2018 JKLOIUY Premium Four 120 Yes
